@@ -9,8 +9,14 @@ npm i
 # 启动服务
 npm dev
 
-```
+# 格式化代码
+npm run format
 
+# 打包
+npm run build
+
+
+```
 
 ## 工具库
 - 代码检查：   eslint
